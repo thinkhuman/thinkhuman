@@ -3,7 +3,7 @@
 <!--
 **thinkhuman/thinkhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I’m James Gill. I’m a writer, software tinkerer, and craftsperson living in the United States.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

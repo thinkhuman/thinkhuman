@@ -1,9 +1,7 @@
 ### Hi, I’m James Gill. I’m a writer, software tinkerer, and craftsperson living in the United States.
+![James Gill's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkhuman&show_icons=true&theme=ayu-mirage)
 
 <!--
-**thinkhuman/thinkhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkhuman)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

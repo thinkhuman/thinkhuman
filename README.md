@@ -1,6 +1,8 @@
 ### Hi, I’m James Gill. I’m a writer, software tinkerer, and craftsperson living in the United States.
 ![James Gill's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkhuman&show_icons=true&theme=ayu-mirage)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkhuman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 - 🔭 I’m currently working on ...

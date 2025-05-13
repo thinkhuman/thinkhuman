@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/jamesagill?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSEBOG6tCRS%2Bg0QoCyN9qrA%3D%3D">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="https://stackoverflow.com/users/1443145/james"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a>
-    <a href="https://twitter.com/IamJamesGill"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+    <a href="https://jamesgill.substack.com"> <img src="https://img.shields.io/badge/Substack-1DA1F2?style=for-the-badge&logo=Substack&logoColor=white" /> </a>
 <!--
 
 - 🔭 I’m currently working on ...

@@ -15,7 +15,7 @@
 <a href="https://bio.link/jamesgill"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jamesagill"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/1443145/james"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://thinkhuman.com"> <img src="https://img.shields.io/badge/thinkhuman-7b68ee" /></a>
+<a href="https://thinkhuman.com"> <img src="https://img.shields.io/badge/thinkhuman-7b68ee?style=for-the-badge" /></a>
 <!--
 
 - 🔭 I’m currently working on ...
